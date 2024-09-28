@@ -1,4 +1,4 @@
-# Filter-Android-App
+# Photo-Editing-App
 Photo editing app made using Android Studio
 
 Filter is a photo-editing app that helps add various filters to your pictures.
